@@ -12,7 +12,6 @@ const connection = mysql.createConnection
   host     : 'localhost',
   user     : 'root',
   database : 'join_us',
-//   port: 3000,
   password: 'Naruto0092'
 });
 
